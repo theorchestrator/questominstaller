@@ -20,7 +20,7 @@ Java 64bit https://www.java.com/de/download/manual.jsp
 
 ### Credits:
 
-QuestSaberPatch by Trishume - https://github.com/trishume/QuestSaberPatch 
-Uber Apk Signer by patrickfav - https://github.com/patrickfav/uber-apk-signer
-Songe Converter by lolPants - https://github.com/lolPants/songe-converter
-
+- QuestSaberPatch by Trishume - https://github.com/trishume/QuestSaberPatch 
+- Uber Apk Signer by patrickfav - https://github.com/patrickfav/uber-apk-signer
+- Songe Converter by lolPants - https://github.com/lolPants/songe-converter
+- QuestomSongs batch files by emulamer
