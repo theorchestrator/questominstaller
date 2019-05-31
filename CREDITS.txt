@@ -1,0 +1,6 @@
+Credits:
+
+QuestSaberPatch by Trishume - https://github.com/trishume/QuestSaberPatch 
+Uber Apk Signer by patrickfav - https://github.com/patrickfav/uber-apk-signer
+Songe Converter by lolPants - https://github.com/lolPants/songe-converter
+
